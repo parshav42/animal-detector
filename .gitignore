@@ -1,0 +1,27 @@
+# Virtual environments
+pyenv/
+mp_env/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Mac files
+.DS_Store
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
